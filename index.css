@@ -1,9 +1,18 @@
-body{
-
+#runtime {
+background-color: #c4d112;
+color: azure;
+padding: 0px 0px 5px 5px;
 }
-#title{
 
+.content {
+    color: #b1ceeb;
 }
-button{
-    color: blue;
+
+.film {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+#film-info {
+    padding-bottom: 100px;
 }
